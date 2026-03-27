@@ -4,10 +4,11 @@
 - 🌱 I'm currently learning/keeping my knowledge updated/exploring React/Angular/Microfrontends/NestJS/FastAPI/Python.
 - 📫 How to reach me: <adrian.gonzalez.rodrigo@gmail.com>
 - I'm mainly working in several personal and private repos:
-
   - Microfrontends architecture (Work in Progress):
-    - Host application using Angular 19
-    - Multiple MFEs using different technologies (Angular, React)
+    - Host application using Angular 21
+    - Multiple MFEs using different technologies (Angular 21, Angular 19 exposed as Web Component App, React 19 app exposed as Web Component)
+    - UI Design System created exposing angular components as Web Components.
+    - Demo cases showing navigation, detail navigation, theming, i18n.
     - Deployment: [https://mfe-host-ng-app.netlify.app/](https://mfe-host-ng-app.netlify.app/)
 
   - React repo:
