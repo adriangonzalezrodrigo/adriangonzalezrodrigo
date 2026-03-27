@@ -5,6 +5,11 @@
 - 📫 How to reach me: <adrian.gonzalez.rodrigo@gmail.com>
 - I'm mainly working in several personal and private repos:
 
+  - Microfrontends architecture (Work in Progress):
+    - Host application using Angular 19
+    - Multiple MFEs using different technologies (Angular, React)
+    - Deployment: [https://mfe-host-ng-app.netlify.app/](https://mfe-host-ng-app.netlify.app/)
+
   - React repo:
     - React 19
     - Zustand
